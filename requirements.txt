@@ -1,0 +1,6 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+scikit-learn==1.3.0
+lazypredict-nightly==0.3.2
+numpy==1.23.5
+pandas==2.2.2
